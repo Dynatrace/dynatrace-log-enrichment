@@ -12,5 +12,5 @@ Although Dynatrace OneAgent comes with out of the box support for Log Enrichment
 
 Just add this library to the classpath you will nevertheless get the same results.
 
-# Maintainer
+# Maintained By
 This repo is maintained by Asad Ali <asad.ali@dynatrace.com>
