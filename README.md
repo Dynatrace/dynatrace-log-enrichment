@@ -1,1 +1,1 @@
-# trace_id_enrichment
+# dynatrace-log-enrichment
