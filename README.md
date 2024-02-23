@@ -11,3 +11,6 @@ Dynatrace OneAgent currently doesn't support log enrichment for Log4J v1.x out o
 Although Dynatrace OneAgent comes with out of the box support for Log Enrichment for Log4J 2.x we've seen deployments where Log4J has been customized in a way that disables that feature of OneAgent.
 
 Just add this library to the classpath you will nevertheless get the same results.
+
+# Maintainer
+This repo is maintained by Asad Ali <asad.ali@dynatrace.com>
